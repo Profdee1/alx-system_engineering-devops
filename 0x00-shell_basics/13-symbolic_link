@@ -1,2 +1,2 @@
 #!/bin/bash
-mklin -s /bin/ls _ls_
+lin -s /bin/ls _ls_
