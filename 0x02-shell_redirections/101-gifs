@@ -1,2 +1,2 @@
 #!/bin/bash
-find . \( -name '.*' -o -name '*.js' \)
+find . f \( -name '.*' -o -name '*.js' \)
